@@ -1,0 +1,57 @@
+span{
+ color: red;
+}
+.a{
+    color: green;
+}
+.c{
+  border-radius: 25px ;
+ background-color: aliceblue;
+  text-align: center;
+  border: solid red 3px;
+}
+.b{
+    text-align: center;
+    background-color: yellow;
+}
+.f{
+    background-color: yellow;
+    text-align: center;
+}
+.g{
+    color: green;
+}
+.ga{
+    width: 1200px;
+}
+button{
+    background-color: rgb(103, 103, 173);
+    width: 300px;
+    height: 30px;
+}
+.y{
+    border-radius: 5px;
+    background-color: yellow;
+    text-align: center;
+}
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.m{
+    background-color: blue;
+}
+.h{
+    background-color: green;
+    color: white;
+}
+.k{
+    background-color: red;
+    color: white;
+}
+.r{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
